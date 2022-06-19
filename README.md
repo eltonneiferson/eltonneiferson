@@ -5,10 +5,11 @@
 <p>⚡ Apaixonado por tecnologia, fã do mundo geek, curto maratonar bons filmes, series e animes, e agora aprendendo a programar!</p>
 <p>👨🏻‍💻 Procurando me tornar um bom desenvolvedor WEB Full Stack, aprendendo as melhores tecnologias e desenvolvendo/programando as melhores soluções.</p>
 
-<a href="https://github.com/eltonneiferson">
-<img height="170" width="320" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dracula"/>
-
+<div style="display: flex">
+<a href="https://github.com/eltonneiferson"><img height="170" width="320" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<img height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dracula">
+</div>
+ 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   <a>
