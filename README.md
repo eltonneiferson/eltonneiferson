@@ -7,9 +7,10 @@
 <p>👨🏻‍💻 Procurando me tornar um bom desenvolvedor WEB Full Stack, aprendendo as melhores tecnologias e desenvolvendo/programando as melhores soluções.</p>
 </div>
 
-<div align="left" style="display: inline_block">
-<a href="https://github.com/eltonneiferson"><img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
-<img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dark"></a>
+<div align="left">
+<a href="https://github.com/eltonneiferson"><img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dark"/>
+</a>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
