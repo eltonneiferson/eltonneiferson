@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey guys, I'm Elton 👋
 
-<!--
-**eltonneiferson/eltonneiferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🌱 Formado em Analise e Desenvolvivendo de Sistemas, com uma pós de Desenvolvivemnto WEB Full Stack em andamento.
+-👨🏻‍💻 Estou procurando me tornar um bom desenvolvedor WEB Full Stack, aprendendo as melhores tecnologias e desenvolvendo/programando as melhores soluções.
+-⚡ Apaixonado por tecnologia, fã do mundo geek, curto maratonar bons filmes, series e animes, e agora aprendendo a programar!
 
-Here are some ideas to get you started:
+**📲Linkedin:** https://www.linkedin.com/in/elton-neiferson-134431213/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📲Instagram:** [@eltonneiferson](https://www.instagram.com/eltonneiferson/)
+
+**📲Discord:** eltonneiferson#7237
+
+**Bye bye guys 👋 ###**
