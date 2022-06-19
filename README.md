@@ -5,23 +5,16 @@
 <p>🌱 Formado em Analise e Desenvolvivendo de Sistemas, com uma pós de Desenvolvivemnto WEB Full Stack em andamento.</p>
 <p>⚡ Apaixonado por tecnologia, fã do mundo geek, curto maratonar bons filmes, series e animes, e agora aprendendo a programar!</p>
 <p>👨🏻‍💻 Procurando me tornar um bom desenvolvedor WEB Full Stack, aprendendo as melhores tecnologias e desenvolvendo/programando as melhores soluções.</p>
-<img align="center" alt="Elton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Elton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Elton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </br>
 </div>
 
 <div align="left">
-<a href="https://github.com/eltonneiferson"><img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/eltonneiferson"><img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=eltonneiferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"</a>
+<img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonneiferson&layout=compact&langs_count=7&theme=dark"</a>
 </div>
-</br>
-<div> 
 
- **📲Linkedin:** <a href="https://www.linkedin.com/in/elton-neiferson-134431213/" target="_blank">eltonneifersonHey guys, I'm Elton👋</a>
-
-**📲Instagram:** [@eltonneiferson](https://www.instagram.com/eltonneiferson/)
+<a>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+<p>📲Linkedin: <a href="https://www.linkedin.com/in/elton-neiferson-134431213/" target="_blank">eltonneiferson</a></p>
+<p>📲Instagram: <a href="https://www.instagram.com/eltonneiferson/" target="_blank">@eltonneiferson</a></p>
