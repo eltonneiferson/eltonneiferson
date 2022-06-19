@@ -18,7 +18,7 @@
 </br>
 <div> 
 
-**📲Linkedin:** https://www.linkedin.com/in/elton-neiferson-134431213/
+ **📲Linkedin:** <a href="https://www.linkedin.com/in/elton-neiferson-134431213/" target="_blank">eltonneifersonHey guys, I'm Elton👋</a>
 
 **📲Instagram:** [@eltonneiferson](https://www.instagram.com/eltonneiferson/)
 
