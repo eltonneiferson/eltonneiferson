@@ -10,5 +10,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,git" />
     </a>
 </div>
-
-![Snake animation](https://github.com/eltonneiferson/eltonneiferson/blob/output/github-contribution-grid-snake.svg)
