@@ -7,6 +7,6 @@
 <div>
     <h2>SKILLS</h2>
     <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,tailwind,styledcomponets" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,tailwind,styledcomponents" />
     </a>
 </div>
